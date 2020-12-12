@@ -1,0 +1,7 @@
+{
+  "name": "ISensor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
